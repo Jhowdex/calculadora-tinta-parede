@@ -19,11 +19,9 @@ formatação de strings e estruturas de repetição.
 ## 🚀 Como Usar
 
 1. Certifique-se de ter o Python instalado na sua máquina
-2. Clone o repositório:
-```bash
-   git clone https://github.com/seu-usuario/calculadora-tinta-parede.git
 ```
-3. Execute o programa:
+```
+2. Execute o programa:
 ```bash
    python Calculadora-tinta-parede.py
 ```
